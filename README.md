@@ -1,0 +1,1 @@
+# Delate-system-32-go-exe-file
