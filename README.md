@@ -13,4 +13,5 @@
 > Запуск приведёт к поломке операционной системы и потере данных.  
 > Используйте **только** для изучения синтаксиса, заменив пути на безопасные тестовые папки.
 >
-> ![Danger](https://img.shields.io/badge/⚠️-DANGER-red?style=for-the-badge) ![Danger](https://img.shields.io/badge/⚠️-DANGER-red?style=for-the-badge)
+>
+![Danger](https://img.shields.io/badge/⚠️-DANGER-red?style=for-the-badge) ![Danger](https://img.shields.io/badge/⚠️-DANGER-red?style=for-the-badge)
