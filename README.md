@@ -7,7 +7,7 @@
 
 # ⚠️ ОПАСНОСТЬ! DO NOT RUN / НЕ ЗАПУСКАТЬ!
 
-![Danger Fire](https://media.giphy.com/media/xUJYCCeyudY8M/giphy.gif)
+![Radiation](https://media.giphy.com/media/3o6Yh9I95YjQk8vF3G/giphy.gif)
 
 > 🛑 **Этот код удаляет системные файлы Windows (`System32`).**  
 > Запуск приведёт к поломке операционной системы и потере данных.  
